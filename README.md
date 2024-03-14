@@ -36,3 +36,15 @@ Desarrollador de software apasionado por crear soluciones innovadoras y de alta 
 ## 📫 ¡Contáctame!
 
 ¡Si estás interesado en saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/upcjdev/) o caftpjuancarlos@gmail.com!
+
+## 🛠️ Tecnologías
+
+| Lenguajes de Programación | Frameworks/Librerías | Bases de Datos | Herramientas de Control de Versiones |
+|---------------------------|----------------------|----------------|--------------------------------------|
+| ![Java Logo](https://upload.wikimedia.org/wikipedia/de/e/e1/Java-Logo.svg) | ![Spring Logo](https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg) | ![MySQL Logo](https://upload.wikimedia.org/wikipedia/de/6/62/MySQL.svg) | ![Git Logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png) |
+
+## 🌐 Encuéntrame en
+
+- [Correo Electrónico](mailto:tu_correo@example.com)
+- [LinkedIn](https://www.linkedin.com/in/tu_perfil)
+- [Twitter](https://twitter.com/tu_usuario)
