@@ -1,16 +1,38 @@
-### Hi there 👋
+# ¡Hola, soy [Juan Carlos]! 👋
 
-<!--
-**Chispa8/Chispa8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador de software apasionado por crear soluciones innovadoras y de alta calidad. Me encanta aceptar nuevos desafíos y aprender tecnologías emergentes.
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/Chispa8/JC/assets/143283368/870b421b-1264-436d-bc40-0e5cb12a8c9e" alt="NewALIEN" style="display: block; margin-left: auto; margin-right: auto;">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 Habilidades Técnicas
+
+- Lenguajes de Programación: Java, JavaScript pronto serán más
+- Frameworks/Librerías: JUnit, Mockito, Spring
+- Bases de Datos: MySQL
+- Herramientas de Control de Versiones: Git, GitHub
+
+<p align="center">
+  <img src="https://github.com/Chispa8/JC/assets/143283368/d01b28f7-3192-4050-bd62-fcf785695472" alt="NewCheeta" style="display: block; margin-left: auto; margin-right: auto;">
+</p>
+
+## 🌱 Proyectos Destacados
+
+### [Proyecto 1](https://github.com/Chispa8/Slug-Ball-Showdown) 
+- Welcome to Slug Ball Showdown! This is an exciting game developed in Java using the Simple Graphics library.
+
+### [Proyecto 2](https://github.com/Chispa8/Annabell-s-Mystery)
+- Welcome to Annabell's Mystery! This is an intriguing text-based game developed in Java using the Prompt View library. Join us in solving the mystery of Annabell's murder at her luxurious mansion.
+  
+### [Proyecto 3](https://github.com/Chispa8/Map-Editor)
+- Welcome to Map Editor! This is a unique tool that allows you to create pixel art backgrounds for your projects. Think of it as a distant cousin of Paint and r/place, where you can unleash your creativity and design stunning pixelated landscapes.
+  
+<p align="center">
+  <img src="https://github.com/Chispa8/JC/assets/143283368/f9d24f18-a9ec-42da-b98a-d77eb15e4365" alt="NewDeadpool" style="display: block; margin-left: auto; margin-right: auto;">
+</p>
+
+## 📫 ¡Contáctame!
+
+¡Si estás interesado en saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/upcjdev/) o caftpjuancarlos@gmail.com!
