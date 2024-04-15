@@ -2,10 +2,9 @@
 
 Desarrollador de software apasionado por crear soluciones innovadoras y de alta calidad. Me encanta aceptar nuevos desafíos y aprender tecnologías emergentes.
 
-<p align="center">
-  <img src="https://github.com/Chispa8/JC/assets/143283368/870b421b-1264-436d-bc40-0e5cb12a8c9e" alt="NewALIEN" style="display: block; margin-left: auto; margin-right: auto;">
-</p>
+## 📫 ¡Contáctame!
 
+¡Si estás interesado en saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/upcjdev/) o caftpjuancarlos@gmail.com!
 
 ## 🚀 Habilidades Técnicas
 
@@ -13,10 +12,6 @@ Desarrollador de software apasionado por crear soluciones innovadoras y de alta 
 - Frameworks/Librerías: JUnit, Mockito, Spring
 - Bases de Datos: MySQL
 - Herramientas de Control de Versiones: Git, GitHub
-
-<p align="center">
-  <img src="https://github.com/Chispa8/JC/assets/143283368/d01b28f7-3192-4050-bd62-fcf785695472" alt="NewCheeta" style="display: block; margin-left: auto; margin-right: auto;">
-</p>
 
 ## 🌱 Proyectos Destacados
 
@@ -28,11 +23,3 @@ Desarrollador de software apasionado por crear soluciones innovadoras y de alta 
   
 ### [Proyecto 3](https://github.com/Chispa8/Map-Editor)
 - Welcome to Map Editor! This is a unique tool that allows you to create pixel art backgrounds for your projects. Think of it as a distant cousin of Paint and r/place, where you can unleash your creativity and design stunning pixelated landscapes.
-  
-<p align="center">
-  <img src="https://github.com/Chispa8/JC/assets/143283368/f9d24f18-a9ec-42da-b98a-d77eb15e4365" alt="NewDeadpool" style="display: block; margin-left: auto; margin-right: auto;">
-</p>
-
-## 📫 ¡Contáctame!
-
-¡Si estás interesado en saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme a través de [LinkedIn](https://www.linkedin.com/in/upcjdev/) o caftpjuancarlos@gmail.com!
