@@ -1,10 +1,10 @@
-# ¡Hola, soy [Juan Carlos]! 👋
+# Hey, entering to [Juan Carlos] space! 👋
 
-Desarrollador de software apasionado por crear soluciones innovadoras y de alta calidad. Me encanta aceptar nuevos desafíos y aprender tecnologías emergentes.
+Passionate software developer committed to creating innovative and high-quality solutions. I love taking on new challenges and learning emerging technologies.
 
-## 📫 ¡Contáctame!
+## 📫 Contact me!
 
-✌️¡Si estás interesado en saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme!✌️
+✌️If you're interested in knowing more about me or collaborating on any project, feel free to reach out!✌️
 <br/>
 <br/>
 <p align="center">
@@ -16,16 +16,17 @@ Desarrollador de software apasionado por crear soluciones innovadoras y de alta 
 </p>
 <br/>
 <br/>
-## 🚀 Habilidades Técnicas
+## 🚀 Technical Skills
 
-- Lenguajes de Programación
+- Programming Languages
+  <br/>
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 
 <br/>
-- Frameworks/Librerías
+- Frameworks/Libraries
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
@@ -37,10 +38,16 @@ Desarrollador de software apasionado por crear soluciones innovadoras y de alta 
 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-- Bases de Datos: MySQL
-- Herramientas de Control de Versiones: Git, GitHub
+- Databases
 
-## 🌱 Proyectos Destacados
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+- Version Control Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🌱 Featured Projects
 
 ### [Proyecto 1](https://github.com/Chispa8/Slug-Ball-Showdown) 
 - Welcome to Slug Ball Showdown! This is an exciting game developed in Java using the Simple Graphics library.
