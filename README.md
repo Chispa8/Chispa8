@@ -7,8 +7,9 @@ Desarrollador de software apasionado por crear soluciones innovadoras y de alta 
 ¡Si estás interesado en saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme a través de
 <a href="https://www.linkedin.com/in/upcjdev/" target="https://www.linkedin.com/in/upcjdev/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
- </a>
-[LinkedIn](https://www.linkedin.com/in/upcjdev/) o caftpjuancarlos@gmail.com!
+</a> o <a href="mailto:caftpjuancarlos@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
 
 ## 🚀 Habilidades Técnicas
 
