@@ -16,9 +16,12 @@ Passionate software developer committed to creating innovative and high-quality 
 </p>
 <br/>
 <br/>
+
 ## 🚀 Technical Skills
 
-- Programming Languages
+<div align="center">
+  ### Programming Languages
+</div>
   <br/>
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -26,7 +29,10 @@ Passionate software developer committed to creating innovative and high-quality 
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 
 <br/>
-- Frameworks/Libraries
+
+<div align="center">
+  ### Frameworks/Libraries
+</div>
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
@@ -38,11 +44,17 @@ Passionate software developer committed to creating innovative and high-quality 
 
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
 
-- Databases
+
+<div align="center">
+  ### Databases
+</div>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- Version Control Tools
+
+<div align="center">
+  ### Version Control Tools
+</div>
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
