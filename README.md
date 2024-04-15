@@ -6,6 +6,8 @@ Desarrollador de software apasionado por crear soluciones innovadoras y de alta 
 
 ¡Si estás interesado en saber más sobre mí o colaborar en algún proyecto, no dudes en contactarme a través de
 <a href="https://linkedin.com/in/al-siam" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
+ </a>
 [LinkedIn](https://www.linkedin.com/in/upcjdev/) o caftpjuancarlos@gmail.com!
 
 ## 🚀 Habilidades Técnicas
