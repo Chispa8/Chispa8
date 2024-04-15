@@ -30,11 +30,11 @@ Passionate software developer committed to creating innovative and high-quality 
 
 ## 🌱 Featured Projects
 
-### [Proyecto 1](https://github.com/Chispa8/Slug-Ball-Showdown) 
+### [Project 1](https://github.com/Chispa8/Slug-Ball-Showdown) 
 - Welcome to Slug Ball Showdown! This is an exciting game developed in Java using the Simple Graphics library.
 
-### [Proyecto 2](https://github.com/Chispa8/Annabell-s-Mystery)
+### [Project 2](https://github.com/Chispa8/Annabell-s-Mystery)
 - Welcome to Annabell's Mystery! This is an intriguing text-based game developed in Java using the Prompt View library. Join us in solving the mystery of Annabell's murder at her luxurious mansion.
   
-### [Proyecto 3](https://github.com/Chispa8/Map-Editor)
+### [Project 3](https://github.com/Chispa8/Map-Editor)
 - Welcome to Map Editor! This is a unique tool that allows you to create pixel art backgrounds for your projects. Think of it as a distant cousin of Paint and r/place, where you can unleash your creativity and design stunning pixelated landscapes.
