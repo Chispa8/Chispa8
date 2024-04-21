@@ -22,7 +22,7 @@ Passionate software developer committed to creating innovative and high-quality 
 
 ## 🚀 Technical Skills
 
-| Programming Languages | Frameworks/Libraries | Databases | Version Control & More |
+| Programming Languages | Frameworks/Libraries | Databases | Tools |
 | :---: | :---: | :---: | :---: |
 | ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F) | ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) |
 | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Mockito](https://img.shields.io/badge/Mockito-DC143C?style=for-the-badge&logo=mockito&logoColor=white) | | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) |
