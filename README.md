@@ -21,7 +21,6 @@ Passionate software developer committed to creating innovative and high-quality 
  </a> 
 </p>
 <br/>
-<br/>
 
 ## 🚀 Technical Skills
 
@@ -32,19 +31,17 @@ Passionate software developer committed to creating innovative and high-quality 
 | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) | | ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white) |
 | ![JAVA](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white) | ![Apache Maven](https://img.shields.io/badge/Apache_Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white) | | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white) |
 | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white) | ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)  | | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
- |
 
-
-
-
+<br/>
 
 ## 🌱 Featured Projects
 
-### [Project 1](https://github.com/Chispa8/Slug-Ball-Showdown) 
-- Welcome to Slug Ball Showdown! This is an exciting game developed in Java using the Simple Graphics library.
+[![Slug Ball Showdown](https://github-readme-stats.vercel.app/api/pin/?username=Chispa8&repo=Slug-Ball-Showdown&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Chispa8/Slug-Ball-Showdown)
+[![Annabell's Mystery](https://github-readme-stats.vercel.app/api/pin/?username=Chispa8&repo=Annabell-s-Mystery&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Chispa8/Annabell-s-Mystery)
+[![Map Editor](https://github-readme-stats.vercel.app/api/pin/?username=Chispa8&repo=Map-Editor&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Chispa8/Map-Editor)
+[![Bento Grid](https://github-readme-stats.vercel.app/api/pin/?username=Chispa8&repo=Bento-Grid&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7)
 
-### [Project 2](https://github.com/Chispa8/Annabell-s-Mystery)
-- Welcome to Annabell's Mystery! This is an intriguing text-based game developed in Java using the Prompt View library. Join us in solving the mystery of Annabell's murder at her luxurious mansion.
-  
-### [Project 3](https://github.com/Chispa8/Map-Editor)
-- Welcome to Map Editor! This is a unique tool that allows you to create pixel art backgrounds for your projects. Think of it as a distant cousin of Paint and r/place, where you can unleash your creativity and design stunning pixelated landscapes.
+
+<p align="left">
+  <a href="https://github.com/Chispa8?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
