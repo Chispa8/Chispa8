@@ -1,4 +1,4 @@
-# Hey, entering to [Juan Carlos] space! 👋
+# Hey, entering to [Juan Carlos'] space! 👋
 
 Passionate software developer committed to creating innovative and high-quality solutions. I love taking on new challenges and learning emerging technologies.
 
@@ -34,6 +34,12 @@ Passionate software developer committed to creating innovative and high-quality 
 
 <br/>
 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Chispa8&show_icons=true&locale=en&layout=compact&theme=radical" alt="JC" style="display: inline-block; margin-right: 10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chispa8&show_icons=true&locale=en&theme=radical" alt="JC" style="display: inline-block; margin-left: 10px;">
+</div>
+<p>
+<br/>
 ## 🌱 Featured Projects
 
 [![Slug Ball Showdown](https://github-readme-stats.vercel.app/api/pin/?username=Chispa8&repo=Slug-Ball-Showdown&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Chispa8/Slug-Ball-Showdown)
