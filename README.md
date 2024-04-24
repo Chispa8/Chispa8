@@ -1,6 +1,6 @@
 # Hey, entering to [Juan Carlos'] space! 👋
 
-Passionate software developer committed to creating innovative and high-quality solutions. I love taking on new challenges and learning emerging technologies.
+Software developer committed to creating innovative and high-quality solutions. I love taking on new challenges and learning emerging technologies.
 
 ## 📫 Contact me!
 
