@@ -23,7 +23,7 @@ Software developer committed to creating innovative and high-quality solutions. 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,git,mysql,bootstrap,spring,hibernate,maven,jquery,visualstudio,vim,postman,markdown,git,github,aws,idea,codepen,npm,powershell" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,mysql,bootstrap,spring,hibernate,maven,jquery,visualstudio,vim,postman,markdown,git,github,aws,idea,codepen,npm,powershell" />
   </a>
 </p>
 
