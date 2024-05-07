@@ -16,9 +16,6 @@ Software developer committed to creating innovative and high-quality solutions. 
    <a href="CV Juan Carlos Poblete Uría.pdf" download>
   <img src="https://img.shields.io/badge/CV-4285F4?style=for-the-badge&logo=Github&logoColor=white"/>
  </a>
-  <a href="https://www.instagram.com/upcj?igsh=MTN1YXc3aTFoM3hhbw==" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="alsiam" />
- </a> 
 </p>
 <br/>
 
